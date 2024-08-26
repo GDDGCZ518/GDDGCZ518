@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m currently learning in github and trying to make some contributions to community.
 <!--
 **GDDGCZ518/GDDGCZ518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
